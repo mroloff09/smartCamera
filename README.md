@@ -1,0 +1,2 @@
+# smartCamera
+Machine Learning camera
